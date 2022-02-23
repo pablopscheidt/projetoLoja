@@ -1,1 +1,1 @@
-# projetoDeLoja
+# Projeto de loja com menu lateral
